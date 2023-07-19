@@ -1,10 +1,9 @@
 ## Hi, I'm Xiabing 👋
 
-[![badge](https://img.shields.io/badge/我的知识库-Wiki-34ABE0?&style=flat-square)](http://120.79.0.214/)
-[![badge](https://img.shields.io/badge/知识地图%20%26%20收藏-Nav-yellow?&style=flat-square)](http://120.79.0.214/)
+[![badge](https://img.shields.io/badge/我的个人博客-MyBlog-34ABE0?&style=flat-square)](http://120.79.0.214/learning-roadmap/)
+[![badge](https://img.shields.io/badge/博客整站导航-Nav-yellow?&style=flat-square)](http://120.79.0.214/)
 [![badge](https://img.shields.io/badge/书摘区-Digest-green?&style=flat-square)](http://120.79.0.214/)
-[![badge](https://img.shields.io/badge/碎碎念-Memos-orange?&style=flat-square)](http://120.79.0.214/)
-[![badge](https://img.shields.io/badge/翻译作品集-Works-a5b0ed?&style=flat-square)](http://120.79.0.214/)
+[![badge](https://img.shields.io/badge/翻译集-Works-a5b0ed?&style=flat-square)](http://120.79.0.214/)
 
 - ⚡ I'm a technical writer in Shenzhen.
 - 📫 Contact me at [txiabing@outlook](mailto:txiabing@outlook.com)
