@@ -7,7 +7,7 @@
 
 - ⚡ I'm a technical writer in Shenzhen.
 - 📫 Contact me at [txiabing@outlook](mailto:txiabing@outlook.com)
-- 🔭 Welcome to my knowledge base: [Xiabing&#39;s Wiki](http://120.79.0.214/)
+- 🔭 Welcome to my knowledge base: [Xiabing&#39;s Blog](http://120.79.0.214/)
 
 <!--
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=linyuxuanlin&count_private=true&hide=issues,contribs&show_icons=true&hide_rank=true" />
