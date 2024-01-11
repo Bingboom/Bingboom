@@ -1,12 +1,10 @@
-## Hi, I'm Xiabing 👋
-
 [![badge](https://img.shields.io/badge/我的个人博客-MyBlog-34ABE0?&style=flat-square)](xx)
 [![badge](https://img.shields.io/badge/博客整站导航-Nav-yellow?&style=flat-square)](xx)
 [![badge](https://img.shields.io/badge/书摘区-Digest-green?&style=flat-square)](xx)
 [![badge](https://img.shields.io/badge/翻译集-Works-a5b0ed?&style=flat-square)](xx)
 
 
-# Hello, I'm Arrietty 👋
+# Hello, I'm Arrietty (唐夏冰) 👋
 
 I'm a Technical Writer specializing in the Information and Communications Technology (ICT) field. I have a passion for making complex technical concepts easy to understand and accessible to diverse audiences. My work spans across various ICT topics, from software development to network infrastructure, and I'm always eager to explore new areas in this ever-evolving field.
 
@@ -27,18 +25,6 @@ Beyond the world of ICT, I'm a literature writing enthusiast. I believe that sto
 
 ## 📈 GitHub Activity
 
-![Arrietty's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arrietty&show_icons=true&theme=radical)
-
-## 📫 How to reach me
-
-Feel free to reach out to me if you have any questions, or if you just want to chat about ICT, technical writing, or literature. You can find me on [LinkedIn](link-to-your-LinkedIn-profile) or send me an email at arrietty@example.com.
-
-Thanks for stopping by!
-
-- ⚡ I'm a technical writer in Shenzhen.
-- 📫 Contact me at [txiabing@outlook](mailto:txiabing@outlook.com)
-- 🔭 Welcome to my knowledge base: [Xiabing&#39;s Blog](xx)
-
 <!--
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=linyuxuanlin&count_private=true&hide=issues,contribs&show_icons=true&hide_rank=true" />
 -->
@@ -46,6 +32,13 @@ Thanks for stopping by!
 ![github-readme-stats](https://github-readme-stats.vercel.app/api?username=Xiabing&count_private=true&hide=issues,contribs&show_icons=true&hide_rank=true)
 
 <!--
+
+## 📫 How to reach me
+
+Feel free to reach out to me if you have any questions, or if you just want to chat about ICT, technical writing, or literature. You can find me on [LinkedIn](link-to-your-LinkedIn-profile) or send me an email at txiabing@outlook.com.
+
+Thanks for stopping by!
+
 
 **** A ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
