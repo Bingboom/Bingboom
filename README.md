@@ -7,21 +7,21 @@
 
 I'm an INFP working in telecommunications as a technical documentation engineer and translator. With 6 years in the game, I've sharpened my tech writing skills and blended Eastern and Western thinking styles. Curious and always up for discovery, I love weaving words to explore and share knowledge. 🌍📚
 
-### 💼Professional Experience 
+### 💼 Professional Experience 
 
 In communications, my 6-year journey has honed my technical writing, merging Eastern and Western perspectives, and boosted my self-learning skills. 💡
 
-### 📚Personal Interests 
+### 📚 Personal Interests 
 
 I'm an avid reader, particularly fond of Maugham's words. He once said, "In youth, the days seem endless, yet they eventually become past." As an emotionally attuned person, I often reflect on my feelings and those around me. This emotional depth fuels my desire to capture life's moments in writing. 🌱
 
-### 🖋️Philosophy on Writing and Communication 
+### 🖋️ Philosophy on Writing and Communication 
 
 Marguerite said, "Expressing yourself is like shouting in a field. Instead, why not evoke curiosity and interest in your readers?" Inspired by this, I aim to stir curiosity and interest through my words, beyond just self-expression. ✨
 
 ### 👯 Aspirations on GitHub
 
-My goal on GitHub is to team up with others, continually learn new skills, and share my knowledge and experiences with the community. 🤝🌐
+Team up with others, continually learn new skills, and share my knowledge and experiences with the community. 🤝🌐
 
 ### 📫 How to reach me
 
@@ -31,8 +31,6 @@ Got questions or want to collaborate? Shoot me an email at txiabing@outlook.com!
 📈 GitHub Activity
 
 ![github-readme-stats](https://github-readme-stats.vercel.app/api?username=Xiabing&count_private=true&hide=issues,contribs&show_icons=true&hide_rank=true)
-
-`<!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=linyuxuanlin&count_private=true&hide=issues,contribs&show_icons=true&hide_rank=true" /> -->`
 
 <!--
 
