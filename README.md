@@ -14,7 +14,7 @@ In addition to my technical writing, I'm also an avid blogger. I enjoy sharing m
 
 ## 📚 Literature Writing
 
-Beyond the world of ICT, I'm a literature writing enthusiast. I believe that storytelling is a powerful tool for communication, and I enjoy exploring this art form in my free time. Whether it's a short story or a poem, I love using words to create vivid images and evoke emotions.
+Beyond the world of ICT, I'm a literature writing enthusiast. I believe that storytelling is a powerful tool for communication, and I enjoy exploring this art form in my free time. Whether it's a short story or a novel, I love using words to create vivid images and evoke emotions.
 
 ## 🛠 Skills & Expertise
 
