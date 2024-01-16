@@ -9,11 +9,11 @@ I'm an INFP working in telecommunications as a technical documentation engineer 
 
 ### 💼 Professional Experience 
 
-In communications, my 6-year journey has honed my technical writing, merging Eastern and Western perspectives, and boosted my self-learning skills. 💡
+My 6-year working experience has improved my technical writing, cultivated Eastern and Western perspectives, and boosted my self-learning skills. 💡
 
 ### 📚 Personal Interests 
 
-I'm an avid reader, particularly fond of Maugham's words. He once said, "In youth, the days seem endless, yet they eventually become past." As an emotionally attuned person, I often reflect on my feelings and those around me. This emotional depth fuels my desire to capture life's moments in writing. 🌱
+I like literature, particularly Maugham's words. He once said, "In youth, the days seem endless, yet they eventually become past." As an emotionally attuned person, I often reflect on my feelings and those around me. This emotional depth fuels my desire to capture life's moments in writing. 🌱
 
 ### 🖋️ Philosophy on Writing and Communication 
 
@@ -21,7 +21,7 @@ Marguerite said, "Expressing yourself is like shouting in a field. Instead, why 
 
 ### 👯 Aspirations on GitHub
 
-Team up with others, continually learn new skills, and share my knowledge and experiences with the community. 🤝🌐
+Hope to continually learn new skills, and happy to share my knowledge and experiences with the community. 🤝🌐
 
 ### 📫 How to reach me
 
