@@ -3,33 +3,36 @@
 [![badge](https://img.shields.io/badge/书摘区-Digest-green?&style=flat-square)](xx)
 [![badge](https://img.shields.io/badge/翻译集-Works-a5b0ed?&style=flat-square)](xx)
 
+### Hello there! 🌟
 
-# Hello, I'm Arrietty (唐夏冰) 👋
+I'm an INFP working in telecommunications as a technical documentation engineer and translator. With 6 years in the game, I've sharpened my tech writing skills and blended Eastern and Western thinking styles. Curious and always up for discovery, I love weaving words to explore and share knowledge. 🌍📚
 
-I'm a Technical Writer specializing in the Information and Communications Technology (ICT) field. I have a passion for making complex technical concepts easy to understand and accessible to diverse audiences. My work spans across various ICT topics, from software development to network infrastructure, and I'm always eager to explore new areas in this ever-evolving field.
+### Professional Experience 💼
 
-## 📝 Blogging
+In communications, my 6-year journey has honed my technical writing, merging Eastern and Western perspectives, and boosted my self-learning skills. 💡
 
-In addition to my technical writing, I'm also an avid blogger. I enjoy sharing my thoughts on the latest trends in ICT, as well as my personal experiences navigating this dynamic industry. You can check out my blog [here](link-to-your-blog).
+### Personal Interests 📚
 
-## 📚 Literature Writing
+I'm an avid reader, particularly fond of Maugham's words. He once said, "In youth, the days seem endless, yet they eventually become past." As an emotionally attuned person, I often reflect on my feelings and those around me. This emotional depth fuels my desire to capture life's moments in writing. 🌱
 
-Beyond the world of ICT, I'm a literature writing enthusiast. I believe that storytelling is a powerful tool for communication, and I enjoy exploring this art form in my free time. Whether it's a short story or a novel, I love using words to create vivid images and evoke emotions.
+### Philosophy on Writing and Communication 🖋️
 
-## 🛠 Skills & Expertise
+Marguerite said, "Expressing yourself is like shouting in a field. Instead, why not evoke curiosity and interest in your readers?" Inspired by this, I aim to stir curiosity and interest through my words, beyond just self-expression. ✨
 
-- Technical Writing
-- ICT Knowledge
-- Blogging
-- Literature Writing
+### 👯 Aspirations on GitHub
 
-## 📈 GitHub Activity
+My goal on GitHub is to team up with others, continually learn new skills, and share my knowledge and experiences with the community. 🤝🌐
 
-<!--
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=linyuxuanlin&count_private=true&hide=issues,contribs&show_icons=true&hide_rank=true" />
--->
+### 📫 How to reach me
+
+Got questions or want to collaborate? Shoot me an email at txiabing@outlook.com! 📧
+
+
+📈 GitHub Activity
 
 ![github-readme-stats](https://github-readme-stats.vercel.app/api?username=Xiabing&count_private=true&hide=issues,contribs&show_icons=true&hide_rank=true)
+
+`<!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=linyuxuanlin&count_private=true&hide=issues,contribs&show_icons=true&hide_rank=true" /> -->`
 
 <!--
 
