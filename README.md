@@ -5,19 +5,16 @@
 
 ### 🌟Hello there! 
 
-I'm an INFP working in telecommunications as a technical documentation engineer and translator. With 6 years in the game, I've sharpened my tech writing skills and blended Eastern and Western thinking styles. Curious and always up for discovery, I love weaving words to explore and share knowledge. 🌍📚
+As a documentation engineer in the telecommunications field, I've honed my skills in technical documentation and translation over 6 years, seamlessly merging Eastern and Western thought. Driven by an insatiable curiosity and a love for exploration, I find joy in crafting words to uncover and share knowledge.📚
+ 💡
 
-### 💼 Professional Experience 
+### 😄 Personal Interests 
 
-My 6-year working experience has improved my technical writing, cultivated Eastern and Western perspectives, and boosted my self-learning skills. 💡
+I like literature, particularly Maugham's words. He once said, "In youth the years stretch before one so long that it is hard to realize that they will past." As someone deeply in tune with emotions, mine and others, I'm drawn to capturing life's fleeting moments through writing. 🌱
 
-### 📚 Personal Interests 
+### 🖋️ Writing 
 
-I like literature, particularly Maugham's words. He once said, "In youth, the days seem endless, yet they eventually become past." As an emotionally attuned person, I often reflect on my feelings and those around me. This emotional depth fuels my desire to capture life's moments in writing. 🌱
-
-### 🖋️ Philosophy on Writing and Communication 
-
-Marguerite said, "Expressing yourself is like shouting in a field. Instead, why not evoke curiosity and interest in your readers?" Inspired by this, I aim to stir curiosity and interest through my words, beyond just self-expression. ✨
+Marguerite said, "Expressing yourself is like shouting in a field. Instead, why not evoke curiosity and interest in your readers?" Inspired by this, I want stir curiosity and interest through my words, beyond just self-expression. ✨
 
 ### 👯 Aspirations on GitHub
 
